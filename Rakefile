@@ -3,4 +3,4 @@
 
 require File.expand_path('../config/application', __FILE__)
 
-PlayingAround::Application.load_tasks
+RestExample::Application.load_tasks
